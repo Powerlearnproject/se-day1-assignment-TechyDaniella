@@ -30,7 +30,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 IDEs are for wrting, debugging and testing code e.g Eclipse. VCS is for tracking changes to the source code and coordinating work among team members e.g Git. 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-1. Changing requirements during the dvelopemnt cycle( ample time should be given to the usrs to make informed decisions)
+1. Changing requirements during the developemnt cycle( ample time should be given to the users to make informed decisions)
 2. Tight deadlines ( developers should be alloted enough time to get products fully developed)
 3. Technical debt ( budgets should be revisited during every development phase to make sure that no debts would be incurred in the forseeable future)
 
